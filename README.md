@@ -5,10 +5,10 @@ OOP Homework
 
 Имах проблеми с оригиналния .zip и прекопирах всичко.
 Оръжията които добавих са:
-CeremonialDagger,
-Swordbreaker,
-Fists
+CeremonialDagger;
+Swordbreaker;
+Fist;
 
 Героите които добавих са:
-Zombie,
-Berserker
+Zombie;
+Berserker;
