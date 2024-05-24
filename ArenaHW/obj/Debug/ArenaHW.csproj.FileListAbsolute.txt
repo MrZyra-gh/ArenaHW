@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ArenaHW\obj\Debug\ArenaHW.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ArenaHW\obj\Debug\ArenaHW.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ArenaHW\bin\Debug\ArenaHW.exe.config
+C:\Users\Admin\source\repos\ArenaHW\bin\Debug\ArenaHW.exe
+C:\Users\Admin\source\repos\ArenaHW\bin\Debug\ArenaHW.pdb
+C:\Users\Admin\source\repos\ArenaHW\obj\Debug\ArenaHW.exe
+C:\Users\Admin\source\repos\ArenaHW\obj\Debug\ArenaHW.pdb
